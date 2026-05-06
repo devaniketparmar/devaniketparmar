@@ -1,87 +1,124 @@
-<h1 align="center">Hi 👋, I'm Aniket Parmar</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devaniketparmar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# Hey 👋 I'm Aniket Parmar  
+### 🚀 Full Stack Developer from India  
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devaniketparmar&row=1&column=7&margin-w=10&margin-h=10&theme=algolia" alt="GitHub Trophies" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+PHP+Developer;WordPress+%26+UI%2FUX+Enthusiast;Always+Learning+New+Things+🚀" />
 
----
+<br/>
 
-### 👨‍💻 About Me
-- 🌱 Currently learning **Python & Data Structures and Algorithms (DSA)**
-- 💬 Ask me about **React, WordPress, PHP, Node.js, Tailwind CSS, and more**
-- 📫 Reach me at **aniketparmar068@gmail.com**
-- ⚡ Fun fact: **I'm Vegan 🥦🌱**
+<img src="https://komarev.com/ghpvc/?username=devaniketparmar&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
+
+</div>
 
 ---
 
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://twitter.com/aniket9904026" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/aniket-parmar-a42597239" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## 💫 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 Building modern web experiences  
+- 🌱 Currently learning **Python & DSA**  
+- 💬 Ask me about **React, Node.js, WordPress, PHP, Tailwind CSS & APIs**  
+- ⚡ Love creating clean UI and scalable backend systems  
+- 🥦 Vegan lifestyle enthusiast  
+- 📫 Reach me at: **aniketparmar068@gmail.com**
+
+<br clear="both"/>
 
 ---
 
-### 🛠️ Tech Stack:
-#### Frontend:
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/aniket-parmar-a42597239">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/aniket9904026">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:aniketparmar068@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### Frontend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap" />
 </p>
 
-#### Backend:
+### Backend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
 </p>
 
-#### Database & Cloud:
+### Database & Cloud
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker" />
 </p>
 
-#### Dev Tools:
+### Tools & DevOps
 <p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,postman,linux,vscode,github" />
 </p>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devaniketparmar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaniketparmar&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaniketparmar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devaniketparmar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaniketparmar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devaniketparmar&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
 
 ---
 
-⭐ **Feel free to explore my repositories and contribute!**  
-🚀 **Let's build something awesome together!**
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devaniketparmar&theme=algolia&row=1&column=7&margin-w=12&margin-h=12&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devaniketparmar&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 “Code. Create. Innovate.”
+
+⭐ Thanks for visiting my profile!  
+💙 Let's build something amazing together.
+
+</div>
